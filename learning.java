@@ -7,11 +7,12 @@ import android.widget.EditText
 import android.widget.Button
 import android.widget.ViewText
 
-public class main_activity extends AppCompatActivity{
+public class learning extends AppCompatActivity{
     EditText edt
     some variables
     @override
     public void onCreate(Bundle savedInstanceState){
-        
+        super.onCreate(savedInstanceState);
+        setContentView()
     }
 }
